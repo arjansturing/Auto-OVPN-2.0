@@ -5,8 +5,6 @@ By: Arjan Sturing
 
 OpenVPN automation Powershell script for Windows, Auto-OVPN for OpenVPN 2.4.x can be found here: https://github.com/arjansturing/Auto-OVPN
 
-The installation is as follows:
-
 Use this script at your own risk!
 
 This script automates the following:
