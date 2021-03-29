@@ -46,7 +46,7 @@ Else
 {cls
 Banner}
 $desktopdir = [Environment]::GetFolderPath("Desktop")
-$OVPN25 = "https://swupdate.openvpn.org/community/releases/OpenVPN-2.5.0-I601-amd64.msi"
+$OVPN25 = "https://swupdate.openvpn.org/community/releases/OpenVPN-2.5.1-I601-amd64.msi"
 $PowerRSA = "https://github.com/arjansturing/Power-RSA-2.0/archive/main.zip"
 $TempDir = "C:\OVPN-TEMPDIR"
 Write-Host "Installing OpenVPN....." -ForegroundColor Green
